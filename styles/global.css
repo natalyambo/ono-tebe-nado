@@ -10,6 +10,10 @@ body {
   font-family: Raleway, sans-serif;
 }
 
+nav {
+  text-transform: lowercase;
+}
+
 h1,
 h2,
 h3,
